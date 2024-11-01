@@ -1,0 +1,4 @@
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5  # في حال استخدام قاعدة بيانات
+Flask-RESTful==0.3.9    # لبناء REST APIs
+gunicorn==20.1.0        # خادم لتشغيل التطبيق في الإنتاج
